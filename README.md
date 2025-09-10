@@ -1,6 +1,22 @@
-# E-Mobility Driver Battery Safety App
+# Fuego: E-Mobility Driver Battery Safety App
 
-A comprehensive dashboard for e-bike drivers to monitor battery safety, find swap stations, and earn rewards for safe practices.
+## About
+
+Prototype MVP developed as part of Columbia University’s Principles of Innovation & Entrepreneurship course and from winning first place at Climate Hackathon: Battery Safety. FueGo is a compliance and incentive platform designed to improve e-bike battery safety, helping drivers, platforms, insurers, and cities reduce fire risks while promoting sustainable urban mobility.
+
+## Problem
+
+- Over 270 e-bike battery fires in NYC in 2024 due to uncertified lithium-ion batteries.
+- New regulations mandate UL-certified batteries, but compliance is costly and difficult to track.
+- Delivery platforms and insurers face legal, financial, and reputational risks without better solutions.
+
+## Solution
+
+FueGo introduces the first platform-agnostic compliance and incentive system for the e-bike economy:
+
+- Driver Safety Scoring: real-time battery verification with rewards
+- Compliance Dashboards: automated tracking for delivery platforms and insurers
+- City Integration: connects certified swap hubs with public safety initiatives
 
 ## Features
 
