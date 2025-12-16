@@ -4,7 +4,7 @@ export const currentUser: User = {
   id: '1',
   name: 'Alex Johnson',
   email: 'alex@example.com',
-  avatarUrl: 'https://i.pravatar.cc/150?img=12',
+  avatarUrl: 'profile_pic.jpg',
 };
 
 export const batteryData: BatteryData = {
