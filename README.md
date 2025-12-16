@@ -2,7 +2,7 @@
 
 ## About
 
-Prototype MVP developed as part of Columbia University’s Principles of Innovation & Entrepreneurship course and from winning first place at Climate Hackathon: Battery Safety. FueGo is a compliance and incentive platform designed to improve e-bike battery safety, helping drivers, platforms, insurers, and cities reduce fire risks while promoting sustainable urban mobility.
+Prototype MVP developed as part of Columbia University’s Principles of Innovation & Entrepreneurship course and from winning first place at Climate Hackathon: Battery Safety. FueGo is a compliance and incentive platform designed to improve e-bike battery safety, helping drivers, platforms, insurers, and cities reduce fire risks while promoting sustainable urban mobility. The dashboard can be viewed here: https://fuego-battery-safety-app.pages.dev/
 
 ## Problem
 
@@ -33,10 +33,6 @@ FueGo introduces the first platform-agnostic compliance and incentive system for
 - Tailwind CSS
 - Lucide Icons
 - React Router DOM
-
-## Deployment
-
-The dashboard can be viewed here: https://fuego-battery-safety-app.pages.dev/
 
 ## Project Structure
 
