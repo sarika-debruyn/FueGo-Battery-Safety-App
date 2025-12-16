@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Settings, Bell, Shield, User, HelpCircle } from 'lucide-react';
+import { Settings, Bell, Shield, User, HelpCircle, ChevronRight } from 'lucide-react';
 import Card from '../components/ui/Card';
 import Button from '../components/ui/Button';
 import { currentUser } from '../data/mockData';

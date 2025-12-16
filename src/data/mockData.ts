@@ -141,3 +141,5 @@ export const nearbySwapStations: SwapStation[] = [
 ];
 
 export const userPoints = 325;
+
+export type { SwapStation };
